@@ -1,3 +1,6 @@
-/META-INF/
-/target
-.class
+/target/
+logs/
+*.class
+.classpath
+.project
+.settings
